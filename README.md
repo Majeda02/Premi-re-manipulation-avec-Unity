@@ -5,6 +5,7 @@
 <img width="1366" height="723" alt="image" src="https://github.com/user-attachments/assets/1930cbab-0111-48d2-9cf0-16a92e603077" />
 
   __** Etape 2 : L'ajout des élèment 3D à La scène **__
+  
     __Soleil + 3 Planetes En utilisant un des sphère__
    
 <img width="429" height="297" alt="image" src="https://github.com/user-attachments/assets/5b28a9ed-86e3-49c5-85aa-234845ea1923" />
@@ -36,6 +37,8 @@
 <img width="1366" height="694" alt="image" src="https://github.com/user-attachments/assets/ad512e2a-40dc-4fa3-b87a-18e614a56a8e" />
 
   __* Etape 4 : Assignement des Scripts **__
+
+  
    --> Pour les planètes : PlanetOrbitFollower.Cs
   <img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/dcf07f8c-a702-423d-9877-8edfdfabf349" />
 
