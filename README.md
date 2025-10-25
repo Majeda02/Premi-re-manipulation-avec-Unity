@@ -14,8 +14,10 @@
 
    __La création des orbits ( trajectoire de mouvement)__
        ** Orbit pour chaque planète **
+
+       
     <img width="324" height="645" alt="image" src="https://github.com/user-attachments/assets/d94b65fb-bf27-48da-b572-035e5a80c362" />
-    <img width="321" height="674" alt="image" src="https://github.com/user-attachments/assets/93efe608-df71-4177-9ed0-21d2934d1dfc" />
+    <img width="321" height="674" alt="image" src="https://github.com/user-attachments/assets/93efe608-df71-4177-9ed0-21d2934d1dfc" /> 
     <img width="319" height="650" alt="image" src="https://github.com/user-attachments/assets/b7559f4a-d251-42cc-995b-552023155ebc" />
     
    __La création d'un materiau pour chaque object pour définir un couleur__
