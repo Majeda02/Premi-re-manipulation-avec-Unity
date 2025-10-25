@@ -6,7 +6,7 @@
 
   __** Etape 2 : L'ajout des élèment 3D à La scène **__
   
-    __Soleil + 3 Planetes En utilisant un des sphère__
+    __Soleil + 3 Planètes En utilisant  des sphère__
    
 <img width="429" height="297" alt="image" src="https://github.com/user-attachments/assets/5b28a9ed-86e3-49c5-85aa-234845ea1923" />
 
